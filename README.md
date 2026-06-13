@@ -4,8 +4,6 @@
 
 Building intelligent systems at the intersection of machine learning research, artificial intelligence, and real-world applications.
 
-[Resume] • [GitHub] • [LinkedIn] • [Google Scholar]
-
 ---
 
 ## About Me
