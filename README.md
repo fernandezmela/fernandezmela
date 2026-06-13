@@ -5,6 +5,14 @@
 Building intelligent systems at the intersection of machine learning research, artificial intelligence, and real-world applications.
 
 ---
+## Connect
+
+LinkedIn:[ https://www.linkedin.com/in/melanie-fern%C3%A1ndez-zgd/ ]
+
+Google Scholar: [ https://scholar.google.com/citations?hl=en&authuser=5&user=xoi91k4AAAAJ ]
+
+Email: [mfernandez3714@gmail.com]
+
 
 ## About Me
 
@@ -79,12 +87,6 @@ Exploring how meta-learning can enable rapid adaptation between related strategi
 
 ---
 
-### Machine Learning for Genomics
-
-Applying machine learning techniques to large-scale biological datasets to identify patterns associated with environmental exposure and genetic variation.
-
----
-
 ## Featured Projects
 
 ### Chess-MAML
@@ -103,13 +105,6 @@ Implementation of convolutional neural networks for board-state evaluation and m
 
 ---
 
-### Research Data Analysis and Visualization
-
-Development of data pipelines and analytical tools for scientific research, including machine learning workflows, visualization systems, and reproducible experimentation frameworks.
-
-**Technologies:** Python, SQL, Pandas, Matplotlib
-
----
 
 ## Technical Skills
 
@@ -146,11 +141,3 @@ Bachelor of Arts in Computer Science
 Minor in Sociology
 
 ---
-
-## Connect
-
-LinkedIn:[ https://www.linkedin.com/in/melanie-fern%C3%A1ndez-zgd/ ]
-
-Google Scholar: [ https://scholar.google.com/citations?hl=en&authuser=5&user=xoi91k4AAAAJ ]
-
-Email: [mfernandez3714@gmail.com]
